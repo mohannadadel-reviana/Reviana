@@ -42,3 +42,8 @@ This project aims to build and scale a competitive perfume brand in the Egyptian
 - Performance tracking, analysis, and optimization recommendations.
 
 >  **Final Deliverable:** A clear, executable digital marketing roadmap that supports brand awareness, engagement, and sales growth.
+
+---
+
+## Project Presentation
+- https://canva.link/3dl6bviiurbtxs9
