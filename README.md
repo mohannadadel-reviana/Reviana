@@ -1,6 +1,6 @@
 # Reviana
 ## Project Tagline
-Reviana – Bold Luxury, Smart Price.
+Reviana – The Art Of Making Scent.
 
 ---
 
